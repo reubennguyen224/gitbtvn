@@ -1,2 +1,1 @@
-yes, this is sample
-and it's gonna changed
+yes, this is sample of git
